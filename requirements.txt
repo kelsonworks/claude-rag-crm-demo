@@ -1,0 +1,4 @@
+# Only needed for REAL mode (live Claude API calls).
+# Mock mode (`python3 demo.py --mock`) uses the standard library only —
+# no installs, no keys, no network.
+anthropic>=0.40.0
